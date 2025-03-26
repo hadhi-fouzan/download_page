@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digitalkuri.vercel.app/sitemap.xml
